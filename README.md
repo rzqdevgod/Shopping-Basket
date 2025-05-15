@@ -97,7 +97,7 @@ tests/
 
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/rzqdevgod/Shopping-Basket.git
 ```
 
 2. Install dependencies:
