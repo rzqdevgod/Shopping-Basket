@@ -1,0 +1,32 @@
+# PHP dependencies
+/vendor/
+composer.lock
+
+# PHP development
+.phpunit.result.cache
+.phpunit.cache/
+.php-cs-fixer.cache
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Docker
+docker-compose.override.yml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/build/
+/dist/
+/coverage/
+phpunit.xml.dist
